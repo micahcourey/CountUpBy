@@ -11,7 +11,7 @@ _A web app that takes two numbers - one to count up to and the second number is 
 ## Setup
 
 * _Clone Repository from GitHub._
-* _Open the triangle_tracker.html file in your web browser_
+* _Open the countupby.html file in your web browser_
 
 ## Technologies Used
 
