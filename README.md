@@ -6,7 +6,7 @@
 
 ## Description
 
-_A web app that takes two numbers - one to count up to and the second number is what multiple to use to get there._
+_A web app that takes two numbers - one to count up to and the second number is what multiple to use to get there. Check it out at: http://micahcourey.github.io/CountUpBy_
 
 ## Setup
 
